@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Andrew and Rob's Website (name in progress)
 
 You can use the [editor on GitHub](https://github.com/GratefulToaster/GratefulToaster.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
