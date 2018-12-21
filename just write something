@@ -2,13 +2,13 @@
 //Step 2. Pull in user data
 //Step 2.1. Pull in macro data (not sure how to pull in trending data)
 //Step 3. Organize Data
-//Date, Time, Day of Week, # likes, # comments, # #s used, # @s used
+
 
 //Step 4. Analyze Data
 //Step 5. Display Welcome Screen
 //Step 6. Display Data
 
-//Step 7. Log out to exit
+//Step 7. Log out to exit (code borrowed from stack overflow, confirm that it's needed and also that it works)
 var s = document.createElement("script");
 s.src = "https://instagram.com/accounts/logout";
 $("head").append(s);
