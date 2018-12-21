@@ -1,5 +1,11 @@
 //Step 1. Log-in
 //Step 2. Pull in user data
+// Open photo, count variables, store data, close photo, open next photo (when to end loop?)
+
+// Count variables
+//Find <meta content="689 Likes, 111 Comments
+//Find total number of #s not preceeded by ", remove duplicates
+
 //Step 2.1. Pull in macro data (not sure how to pull in trending data)
 //Step 3. Organize Data
 
